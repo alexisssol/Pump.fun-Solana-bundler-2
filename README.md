@@ -19,8 +19,6 @@ If you want a new feature or if you want to increase number of wallet that bundl
 
 ## 👤 Author
 
-#### Discord: rabnail_15 in discord
-
 #### Twitter: [@james980114](https://x.com/james980114)   
 
 #### Telegram: [@james_ybarra](https://t.me/james_ybarra) 
