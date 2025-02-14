@@ -19,6 +19,6 @@ If you want a new feature or if you want to increase number of wallet that bundl
 
 ## 👤 Author
 
-#### Twitter: [@james980114](https://x.com/james980114)   
+#### Twitter: [@ethualtera](https://x.com/ethualtera)   
 
-#### Telegram: [@james_ybarra](https://t.me/james_ybarra) 
+#### Telegram: [@ethualtera](https://t.me/ethualtera) 
