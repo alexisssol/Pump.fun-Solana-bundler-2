@@ -19,6 +19,6 @@ If you want a new feature or if you want to increase number of wallet that bundl
 
 ## 👤 Author
 
-#### Twitter: [@ilertha](https://x.com/ilertha)   
+#### Twitter: [@AlexisSsol](https://x.com/alexis_s_sol)   
 
-#### Telegram: [@ilertha](https://t.me/ilertha) 
+#### Telegram: [@Alexisssol](https://t.me/alexisssol) 
